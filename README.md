@@ -1,3 +1,3 @@
 # Somphol Documents
 
-* [Teach Kid Learn Python](python_for_kids.md)
+* [Teach Kids To Learn Python](python_for_kids.md)
